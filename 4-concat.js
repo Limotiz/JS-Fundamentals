@@ -7,5 +7,5 @@ function printArguments(arg1, arg2) {
   console.log(outputString);
 }
 printArguments("Python", "fun");
-printArguments("Do", "stuff");
-printArguments("Tell", "them");
+printArguments("coding", "tough");
+printArguments("HBTN", "undefined");
