@@ -6,4 +6,6 @@ function printArguments(arg1, arg2) {
   
   console.log(outputString);
 }
-printArguments("Hello", "World");
+printArguments("Python", "fun");
+printArguments("Do", "stuff");
+printArguments("Tell", "them");
