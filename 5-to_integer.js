@@ -2,7 +2,7 @@ const arg = process.argv[2];
 
 
 
-const num = Number('-4545');
+const num = Number('-4545', '89');
 
 
 
